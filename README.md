@@ -33,10 +33,8 @@ Full-stack developer at **TeamMove**, a B2B SaaS for sales team management, wher
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [dnd-character-creator](https://github.com/Jota-Pais/dnd-character-creator) | D&D 5e character creator with a step-by-step wizard | React 19, TypeScript, Tailwind, Zustand, Vitest |
-| [restaurante-crud-bd2](https://github.com/Jota-Pais/restaurante-crud-bd2) | Restaurant and order management system | Node.js, Express, TypeScript, React, PostgreSQL, Docker |
 | [projeto-final-desenvolvimento-de-jogos](https://github.com/Jota-Pais/projeto-final-desenvolvimento-de-jogos) | Game MVP built in Godot 4 | GDScript, shaders |
 | [app-aluno-react](https://github.com/Jota-Pais/app-aluno-react) | Student web app with an AI tutor | React, React Router, Gemini API |
-| [sistema-pet-shop](https://github.com/Jota-Pais/sistema-pet-shop) | Pet shop management REST API | Node.js, Express, TypeScript, Prisma, PostgreSQL |
 
 Also building, in private repos: **Quadros**, a task manager with a Claude-powered chat and a custom MCP server (118 tests, ~99% coverage), and **Nidus**, a management system for CPMR/UFSC.
 
