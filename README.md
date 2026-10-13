@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://jota-pais.github.io"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-carlos-pais-9b0b29345/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Crici%C3%BAma%2C%20Brazil-1F2328?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Criciúma, Brazil" />
 </p>
@@ -32,11 +33,13 @@ Full-stack developer at **TeamMove**, a B2B SaaS for sales team management, wher
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [dnd-character-creator](https://github.com/Jota-Pais/dnd-character-creator) | D&D 5e character creator with a step-by-step wizard | React 19, TypeScript, Tailwind, Zustand, Vitest |
+| [dnd-character-creator](https://github.com/Jota-Pais/dnd-character-creator) | RPG character builder for D&D 5e and Ordem Paranormal, with a step-by-step wizard and 1,100+ tests ([live](https://dnd-character-creator-gamma.vercel.app/)) | React 19, TypeScript, Tailwind, Zustand, Vitest |
 | [projeto-final-desenvolvimento-de-jogos](https://github.com/Jota-Pais/projeto-final-desenvolvimento-de-jogos) | Game MVP built in Godot 4 | GDScript, shaders |
 | [app-aluno-react](https://github.com/Jota-Pais/app-aluno-react) | Student web app with an AI tutor | React, React Router, Gemini API |
 
 Also building, in private repos: **Quadros**, a task manager with a Claude-powered chat and a custom MCP server (118 tests, ~99% coverage), and **Nidus**, a management system for CPMR/UFSC.
+
+Case studies and screenshots in my **[portfolio](https://jota-pais.github.io)**.
 
 ## Activity
 
